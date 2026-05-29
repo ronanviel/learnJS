@@ -8,6 +8,7 @@ function increaseCount() {
 
 function resetCount() {
     count = 0;
+    displayCount();C
     displayReset();
 }
 
